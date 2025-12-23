@@ -1,0 +1,1 @@
+# rwi-elections-ecuador-nov2025
