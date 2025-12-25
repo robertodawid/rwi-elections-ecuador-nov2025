@@ -2,7 +2,7 @@
 
 This project analyses the relationship between the **Relative Wealth Index (RWI)** and voting behaviour in the most recent Ecuadorian referendum. Using high-resolution spatial data from Meta and official electoral results, we investigate whether socioeconomic status influenced support for four key ballot questions.
 
-![rwi-Ecuador](/outputs/fig/rwi_map_ecuador.pngouputs/rwi_map_ecuador.png)
+![rwi-Ecuador](/images/rwi_map_ecuador.png)
 
 ## 📌 Project Overview
 
