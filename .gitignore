@@ -1,0 +1,17 @@
+# Data
+cne_web_scrp/*
+
+# Shapefiles
+shapefiles/*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+venv/
+
+# Results
+outputs/*
+#results/figures/*.png
+#results/tables/*.csv
